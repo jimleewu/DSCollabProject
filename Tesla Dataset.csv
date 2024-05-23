@@ -1,0 +1,296 @@
+city,county,population,land_size,medium_income,per_capita_income,no_stations,mile,more_than_12,no_v2,no_urban,no_v3,no_v4,total
+Agoura Hills,Los Angeles,20299,7.8,157930,75425,0,,,,,,,
+Alhambra,Los Angeles,82868,7.63,80234,38394,1,0,0,0,0,12,0,12
+Arcadia,Los Angeles,56681,10.93,108214,53959,0,,,,,,,
+Artesia,Los Angeles,16395,1.62,92702,29781,0,,,,,,,
+Avalon,Los Angeles,3441,2.9,89131,40655,0,,,,,,,
+Azusa,Los Angeles,50000,9.66,81516,30180,1,0,1,0,0,16,0,16
+Baldwin Park,Los Angeles,72176,6.63,76002,24664,0,,,,,,,
+Bell,Los Angeles,33559,2.51,56685,21024,1,0,0,0,0,8,0,8
+Bell Gardens,Los Angeles,39501,2.46,53935,17196,0,,,,,,,
+Bellflower,Los Angeles,79190,6.12,75379,28918,0,,,,,,,
+Beverly Hills,Los Angeles,32701,5.71,116771,103693,0,,,,,,,
+Bradbury,Los Angeles,767,2,158438,92386,0,,,,,,,
+Burbank,Los Angeles,107337,17.32,91455,52513,3,3,2,20,0,32,0,52
+Calabasas,Los Angeles,23241,13.71,154079,98625,1,1,1,0,0,20,0,20
+Carson,Los Angeles,95558,18.73,103045,36093,0,,,,,,,
+Cerritos,Los Angeles,49578,8.73,124460,51243,1,1,1,0,20,0,0,20
+Claremont,Los Angeles,37266,13.34,115091,53395,0,,,,,,,
+Commerce,Los Angeles,12378,6.53,66071,24497,2,2,2,0,0,60,0,60
+Compton,Los Angeles,95740,10.03,69728,22278,0,,,,,,,
+Covina,Los Angeles,51268,7.04,89650,37234,0,,,,,,,
+Cudahy,Los Angeles,22811,1.18,49596,16472,0,,,,,,,
+Culver City,Los Angeles,40779,5.11,114429,75245,2,2,1,16,0,8,0,24
+Diamond Bar,Los Angeles,55072,14.87,106881,45516,1,1,1,0,0,24,0,24
+Downey,Los Angeles,114355,12.41,84236,35375,2,1,0,0,24,0,0,24
+Duarte,Los Angeles,21727,6.71,93908,37833,0,,,,,,,
+El Monte,Los Angeles,109450,9.56,59929,22865,0,,,,,,,
+El Segundo,Los Angeles,17272,5.46,142596,74872,0,,,,,,,
+Gardena,Los Angeles,61027,5.83,75443,33617,0,,,,,,,
+Glendale,Los Angeles,196543,30.48,81219,44298,2,2,2,0,20,16,0,36
+Glendora,Los Angeles,52558,19.51,106718,45796,0,,,,,,,
+Hawaiian Gardens,Los Angeles,14149,0.95,73510,23690,1,1,1,0,0,32,0,32
+Hawthorne,Los Angeles,88083,6.09,72298,32434,2,2,1,0,12,20,0,32
+Hermosa Beach,Los Angeles,19728,1.43,149500,106731,1,1,1,0,0,20,0,20
+Hidden Hills,Los Angeles,2107,1.7,250000,134423,0,,,,,,,
+Huntington Park,Los Angeles,54883,3.01,54073,19217,1,0,0,0,0,12,0,12
+Industry,Los Angeles,234,11.8,77000,20103,2,2,1,0,0,32,0,32
+Inglewood,Los Angeles,107762,9.07,67563,30559,0,,,,,,,
+Irwindale,Los Angeles,1343,8.8,101181,42766,0,,,,,,,
+La Cañada Flintridge,Los Angeles,20573,8.63,210625,99697,0,,,,,,,
+La Habra Heights,Los Angeles,5682,6.16,179990,89507,0,,,,,,,
+La Mirada,Los Angeles,48008,7.82,104130,39623,0,,,,,,,
+La Puente,Los Angeles,38062,3.48,77702,25451,0,,,,,,,
+La Verne,Los Angeles,31334,8.42,103816,48567,0,,,,,,,
+Lakewood,Los Angeles,82496,9.4,113030,43086,1,0,1,0,0,20,0,20
+Lancaster,Los Angeles,173516,94.27,71367,28082,1,1,1,0,0,16,0,16
+Lawndale,Los Angeles,31807,1.97,76213,29330,1,1,0,0,0,8,0,8
+Lomita,Los Angeles,20921,1.91,87717,46488,0,,,,,,,
+Long Beach,Los Angeles,466742,50.71,78995,39589,2,2,1,0,0,28,0,28
+Los Angeles,Los Angeles,3898747,469.49,76224,43527,6,6,3,0,26,76,0,102
+Lynwood,Los Angeles,67265,4.84,67350,20275,0,,,,,,,
+Malibu,Los Angeles,10654,19.85,186905,120795,2,2,0,0,5,8,0,13
+Manhattan Beach,Los Angeles,35506,3.93,187217,108762,1,1,1,0,24,0,0,24
+Maywood,Los Angeles,25138,1.17,57615,19236,0,,,,,,,
+Monrovia,Los Angeles,37931,13.63,93827,44566,0,,,,,,,
+Montebello,Los Angeles,62640,8.33,72317,30596,0,,,,,,,
+Monterey Park,Los Angeles,61096,7.67,76892,35852,0,,,,,,,
+Norwalk,Los Angeles,102773,9.71,91259,29540,1,1,1,0,0,16,0,16
+Palmdale,Los Angeles,169450,106.06,78414,27882,2,2,2,0,0,44,0,44
+Palos Verdes Estates,Los Angeles,13347,4.78,224766,133004,0,,,,,,,
+Paramount,Los Angeles,53733,4.73,67197,23277,0,,,,,,,
+Pasadena,Los Angeles,138699,22.96,97818,59655,5,5,4,0,24,68,0,92
+Pico Rivera,Los Angeles,62088,8.32,82539,29153,0,,,,,,,
+Pomona,Los Angeles,151713,22.99,73515,26064,2,2,2,0,0,40,0,40
+Rancho Palos Verdes,Los Angeles,42287,13.47,166747,81344,0,,,,,,,
+Redondo Beach,Los Angeles,71576,6.21,134033,73285,1,1,0,8,0,0,0,8
+Rolling Hills,Los Angeles,1451,3,250000,187377,0,,,,,,,
+Rolling Hills Estates,Los Angeles,8280,3.58,179917,90746,0,,,,,,,
+Rosemead,Los Angeles,51185,5.16,70073,26081,0,,,,,,,
+San Dimas,Los Angeles,34924,15.03,102241,46574,0,,,,,,,
+San Fernando,Los Angeles,23946,2.37,70950,27486,1,1,0,0,0,12,0,12
+San Gabriel,Los Angeles,39568,4.14,84056,35799,1,1,1,0,0,20,0,20
+San Marino,Los Angeles,12513,3.77,174253,88297,0,,,,,,,
+Santa Clarita,Los Angeles,228673,70.75,116186,47057,3,1,3,0,0,72,0,72
+Santa Fe Springs,Los Angeles,19219,8.86,81500,30849,0,,,,,,,
+Santa Monica,Los Angeles,93076,8.41,106797,86888,3,3,3,0,16,78,0,94
+Sierra Madre,Los Angeles,11268,2.95,128056,80210,0,,,,,,,
+Signal Hill,Los Angeles,11848,2.19,96385,46714,0,,,,,,,
+South El Monte,Los Angeles,19567,2.84,67724,22248,0,,,,,,,
+South Gate,Los Angeles,92726,7.24,67188,22927,0,,,,,,,
+South Pasadena,Los Angeles,26943,3.41,127882,71865,0,,,,,,,
+Temple City,Los Angeles,36494,4,95263,40134,0,,,,,,,
+Torrance,Los Angeles,147067,20.52,109554,54737,1,1,1,0,0,20,0,20
+Vernon,Los Angeles,329,5,69345,20296,2,1,0,0,0,16,0,16
+Walnut,Los Angeles,28430,8.99,130444,50712,0,,,,,,,
+West Covina,Los Angeles,109501,16.04,96219,36707,3,2,3,0,0,60,0,60
+West Hollywood,Los Angeles,35757,1.894,89034,79645,1,1,0,0,0,8,0,8
+Westlake Village,Los Angeles,8029,5.19,188681,99908,0,,,,,,,
+Whittier,Los Angeles,87306,14.65,89686,37433,2,2,1,0,0,23,0,23
+Aliso Viejo,Orange,52176,6.93,131708,59852,0,,,,,,,
+Anaheim,Orange,346824,50.27,88538,35331,3,3,3,0,20,32,0,52
+Brea,Orange,47325,12.17,120226,50780,2,2,2,0,0,44,0,44
+Buena Park,Orange,84034,10.53,101586,37945,1,1,1,0,24,0,0,24
+Costa Mesa,Orange,111918,15.81,104981,53888,2,2,0,0,0,20,0,20
+Cypress,Orange,50151,6.61,117461,46827,1,0,1,0,0,16,0,16
+Dana Point,Orange,33107,6.49,119632,74878,0,,,,,,,
+Fountain Valley,Orange,57047,9.07,108860,46609,2,2,1,16,0,12,0,28
+Fullertron,Orange,143617,22.42,99279,46182,1,1,1,0,0,16,0,16
+Garden Grove,Orange,171949,17.96,86139,31132,1,1,1,0,0,32,0,32
+Huntington Beach,Orange,198711,27,114747,60654,0,,,,,,,
+Irvine,Orange,307670,65.61,122948,59354,5,5,2,0,36,52,0,88
+La Habra,Orange,63097,7.56,93801,37527,0,,,,,,,
+La Palma,Orange,15581,1.78,113398,50335,0,,,,,,,
+Laguna Beach,Orange,23032,8.89,141875,107044,0,,,,,,,
+Laguna Hills,Orange,31374,6.55,122902,64750,2,2,2,0,0,32,0,32
+Laguna Niguel,Orange,64355,14.74,135822,74600,0,,,,,,,
+Laguna Woods,Orange,17644,3.34,56928,52877,0,,,,,,,
+Lake Forest,Orange,85858,16.71,128358,56627,1,1,1,0,0,24,0,24
+Los Alamitos,Orange,11780,4.01,100987,48541,0,,,,,,,
+Mission Viejo,Orange,93653,17.66,136570,59856,2,2,0,0,18,0,0,18
+Newport Beach,Orange,85239,23.79,149471,110535,1,1,0,0,0,12,0,12
+Orange,Orange,139911,25.67,109335,48092,0,,,,,,,
+Placentia,Orange,51824,6.61,106155,44788,0,,,,,,,
+Rancho Santa Margarita,Orange,47949,12.9,150146,62035,0,,,,,,,
+San Clemente,Orange,64293,18.36,134730,69570,2,1,2,21,0,44,0,65
+San Juan Capistrano,Orange,35196,14.43,123474,55855,2,2,0,7,0,12,0,19
+Santa Ana,Orange,310227,27.34,84210,27328,2,2,2,12,22,0,0,34
+Seal Beach,Orange,25242,11.27,75507,65859,0,,,,,,,
+Stanton,Orange,37962,3.1,76123,33351,0,,,,,,,
+Tustin,Orange,80276,11.16,102065,47648,4,4,1,0,0,63,0,63
+Villa Park,Orange,5843,2.08,189306,96167,0,,,,,,,
+Westminster,Orange,90911,10.04,80271,33824,1,1,1,0,24,0,0,24
+Yorba Linda,Orange,68336,19.95,148325,64265,2,2,0,0,0,16,0,16
+San Francisco,San Francisco,873965,46.91,136689,86186,4,3,1,0,68,16,0,84
+Alameda,Alameda,78280,10.45,129917,68122,1,0,0,12,0,0,0,12
+Albany,Alameda,20271,1.79,124469,65976,0,,,,,,,
+Berkeley,Alameda,124321,10.43,104716,63310,0,,,,,,,
+Dublin,Alameda,72589,15.23,191039,76941,3,3,1,24,0,12,0,36
+Emeryville,Alameda,12905,1.27,114345,83173,2,2,0,0,0,24,0,24
+Fremont,Alameda,230504,78.31,169023,68357,5,4,1,16,0,40,0,56
+Hayward,Alameda,162954,45.82,105371,42311,2,2,2,0,16,20,0,36
+Livermore,Alameda,87955,26.45,152590,67965,2,2,2,0,20,16,0,36
+Newark,Alameda,47529,13.92,159465,62417,2,2,2,0,16,22,0,38
+Oakland,Alameda,440646,55.93,94389,56628,2,2,1,0,12,16,0,28
+Piedmont,Alameda,11270,1.7,250000,139921,0,,,,,,,
+Pleasanton,Alameda,79871,24.14,181639,83240,2,2,0,0,10,12,0,22
+San Leandro,Alameda,91008,13.32,97141,45010,1,1,0,0,0,12,0,12
+Union City,Alameda,70143,19.18,138013,52646,1,0,0,0,0,12,0,12
+Antioch,Contra Costa,115291,29.17,90709,37508,1,1,0,10,0,0,0,10
+Brentwood,Contra Costa,64292,14.87,134689,53655,1,1,1,0,0,16,0,16
+Clayton,Contra Costa,11070,3.84,164899,75862,0,,,,,,,
+Concord,Contra Costa,125410,30.55,107789,48628,2,2,2,19,0,16,0,35
+El Cerrito,Contra Costa,25962,3.67,120414,67881,1,1,1,0,14,0,0,14
+Hercules,Contra Costa,26016,6.41,125880,52818,0,,,,,,,
+Lafayette,Contra Costa,25391,15.02,219250,111213,0,,,,,,,
+Martinez,Contra Costa,37287,12.63,124669,61048,1,1,1,0,0,16,0,16
+Oakley,Contra Costa,43357,15.87,120915,41163,0,,,,,,,
+Orinda,Contra Costa,19514,12.85,250000,141683,0,,,,,,,
+Pinole,Contra Costa,19022,5.1,113630,49738,0,,,,,,,
+Pittsburg,Contra Costa,76416,17.68,98408,36333,0,,,,,,,
+Pleasant Hill,Contra Costa,34613,7.08,137685,64672,0,,,,,,,
+Richmond,Contra Costa,116448,30.05,86618,38522,2,2,1,12,0,16,0,28
+San Pablo,Contra Costa,32127,2.62,72552,27043,0,,,,,,,
+San Ramon,Contra Costa,84605,18.69,190829,77696,3,3,3,16,20,16,0,52
+Walnut Creek,Contra Costa,70127,19.76,129971,80347,3,1,1,0,24,24,0,48
+Belmont,San Mateo,28335,4.63,185944,92904,0,,,,,,,
+Brisbane,San Mateo,4756,3,137583,101760,0,,,,,,,
+Burlingame,San Mateo,31386,4.39,165940,90326,1,1,1,0,0,20,0,20
+Daly City,San Mateo,104901,7.64,114910,46581,2,2,2,0,40,15,0,55
+East Palo Alto,San Mateo,30034,2.53,103248,37736,2,2,2,0,20,20,0,40
+Foster City,San Mateo,33805,3.79,191267,91552,0,,,,,,,
+Half Moon Bay,San Mateo,11795,6.24,148702,79985,0,,,,,,,
+Menlo Park,San Mateo,33780,9.99,198273,113716,1,0,1,0,18,0,0,18
+Millbrae,San Mateo,23216,3.27,146649,71386,0,,,,,,,
+Pacifica,San Mateo,38640,12.58,151849,66531,0,,,,,,,
+Redwood City,San Mateo,84292,19.34,145620,77982,0,,,,,,,
+San Bruno,San Mateo,43908,5.49,131669,57984,2,2,1,0,0,40,0,40
+San Carlos,San Mateo,30722,5.41,219413,113618,1,1,1,0,19,0,0,19
+San Mateo,San Mateo,105661,12.13,149152,78990,7,7,1,20,0,60,0,80
+South San Francisco,San Mateo,66105,9.2,127062,58031,1,1,1,0,20,0,0,20
+Campbell,Santa Clara,43959,6.08,141794,77923,0,,,,,,,
+Cupertino,Santa Clara,60381,11.33,223667,99138,2,2,1,10,0,28,0,38
+Gilroy,Santa Clara,59520,16.54,127391,44660,2,2,1,16,0,12,0,28
+Los Altos,Santa Clara,31625,6.54,250000,142219,1,1,1,0,16,0,0,16
+Milpitas,Santa Clara,80273,13.48,166769,61826,3,3,2,16,20,12,0,48
+Monte Sereno,Santa Clara,3444,1.6,250000,157911,0,,,,,,,
+Morgan Hill,Santa Clara,45483,12.94,152199,62116,1,1,1,0,14,0,0,14
+Mountain View,Santa Clara,82376,11.96,174156,102077,1,1,0,12,0,0,0,12
+Palo Alto,Santa Clara,68572,24.1,214118,117476,2,2,2,0,40,39,0,79
+San Jose,Santa Clara,1013240,178.26,136010,59913,9,8,6,0,92,68,0,160
+Santa Clara,Santa Clara,127647,18.28,165352,78084,1,1,1,0,16,0,0,16
+Saratoga,Santa Clara,31051,12.78,237730,116925,0,,,,,,,
+Sunnyvale,Santa Clara,155805,22.06,174506,89432,2,2,1,10,0,16,0,26
+Carlsbad,San Diego,114746,37.77,134139,66944,3,1,2,0,26,24,0,50
+Chula Vista,San Diego,275487,49.64,101984,37618,3,3,2,0,0,44,0,44
+Coronado,San Diego,20192,7.81,125558,72266,0,,,,,,,
+Del Mar,San Diego,3956,1.7,185335,135828,0,,,,,,,
+El Cajon,San Diego,106215,14.51,64128,29639,0,,,,,,,
+Encinitas,San Diego,62007,19.06,142506,77874,0,,,,,,,
+Escondido,San Diego,151038,37.35,77554,35338,0,,,,,,,
+Imperial Beach,San Diego,26137,4.29,75731,33164,0,,,,,,,
+La Mesa,San Diego,61121,9.09,83649,44185,1,1,0,0,0,48,0,48
+Lemon Grove,San Diego,27627,3.88,77833,33270,0,,,,,,,
+National City,San Diego,56173,7.3,59850,25574,0,,,,,,,
+Oceanside,San Diego,174068,41.27,86701,40131,0,,,,,,,
+Poway,San Diego,48841,39.08,135605,58325,0,,,,,,,
+San Diego,San Diego,1386932,325.88,98657,51368,14,8,7,12,56,162,0,230
+San Marcos,San Diego,94833,24.36,99413,42194,1,1,1,0,0,20,0,20
+Santee,San Diego,60037,16.54,101777,42749,0,,,,,,,
+Solana Beach,San Diego,12941,3.41,137647,86222,1,1,0,0,0,8,0,8
+Vista,San Diego,98381,18.75,88715,37194,2,2,2,0,0,40,0,40
+Banning,Riverside,29505,23.24,54083,28951,0,,,,,,,
+Beaumont,Riverside,53036,30.32,102469,35794,2,2,2,0,0,44,0,44
+Blythe,Riverside,18317,26.58,52377,18085,0,,,,,,,
+Calimesa,Riverside,10026,14.86,74236,34901,1,1,0,0,0,12,0,12
+Canyon Lake,Riverside,11082,3.92,120938,58583,0,,,,,,,
+Cathedral City,Riverside,51493,22.49,63209,34807,1,0,0,0,0,8,0,8
+Coachella,Riverside,41941,30.08,52466,23962,0,,,,,,,
+Corona ,Riverside,157136,39.94,103727,38353,1,1,1,0,20,0,0,20
+Desert Hot Springs,Riverside,32512,30.27,45863,23453,0,,,,,,,
+Eastvale,Riverside,69757,12.67,151615,43311,1,1,1,0,0,16,0,16
+Hemet,Riverside,89833,29.28,49901,26043,0,,,,,,,
+Indian Wells,Riverside,4852,14.3,132479,127143,0,,,,,,,
+Indio,Riverside,89137,33.23,68436,33852,1,1,1,8,2,36,0,46
+Jurupa Valley,Riverside,105053,42.94,91562,28723,0,,,,,,,
+Lake Elsinore,Riverside,70265,38.24,89788,32792,2,2,2,21,0,16,0,37
+La Quinta,Riverside,37558,35.26,92776,58577,0,,,,,,,
+Menifee,Riverside,102527,46.48,87871,35682,2,2,2,20,0,16,0,36
+Moreno Valley,Riverside,208634,51.33,82637,26861,1,1,0,0,0,12,0,12
+Murrieta,Riverside,110949,33.61,106925,40950,1,1,0,0,0,12,0,12
+Norco,Riverside,26316,13.86,120636,40311,0,,,,,,,
+Palm Desert,Riverside,51163,26.81,75691,55369,0,,,,,,,
+Palm Springs,Riverside,44575,94.55,67451,62030,1,0,1,0,12,12,0,24
+Perris,Riverside,78700,31.53,78352,24084,1,1,0,0,0,12,0,12
+Rancho Mirage,Riverside,16999,25.35,105557,86546,1,1,1,0,24,0,0,24
+Riverside,Riverside,314998,81.23,83448,31632,2,2,2,0,24,16,0,40
+San Jacinto,Riverside,53898,25.96,73682,24560,0,,,,,,,
+Temecula,Riverside,110003,37.27,111881,42562,3,3,1,10,0,24,0,34
+Wildomar,Riverside,36875,23.7,89912,34607,0,,,,,,,
+Citrus Heights,Sacramento,87583,14.22,75022,35722,0,,,,,,,
+Elk Grove,Sacramento,176124,41.99,115864,42764,2,1,1,0,0,28,0,28
+Folsom,Sacramento,80454,27.88,134935,56541,2,2,1,14,0,20,0,34
+Galt,Sacramento,25383,7.15,85069,34857,0,,,,,,,
+Isleton,Sacramento,538,0.4,52321,28452,0,,,,,,,
+Rancho Cordova,Sacramento,79332,34.57,85099,36124,0,,,,,,,
+Sacramento,Sacramento,524943,98.61,78954,39336,5,5,3,10,19,44,0,73
+Clovis,Fresno,120124,25.42,98554,41909,1,1,0,0,0,12,0,12
+Coalinga,Fresno,17590,6.85,68976,23456,2,2,2,18,0,80,0,98
+Firebaugh,Fresno,8096,3.52,36078,13768,1,1,1,0,0,56,0,56
+Fowler,Fresno,6700,2.53,56410,26623,0,,,,,,,
+Fresno,Fresno,542107,115.18,63001,29293,4,4,0,10,0,32,0,42
+Huron,Fresno,6206,1.6,43664,15783,0,,,,,,,
+Kerman,Fresno,16016,3.27,53956,21308,0,,,,,,,
+Kingsburg,Fresno,12380,3.72,74897,32155,0,,,,,,,
+Mendota,Fresno,12595,3.39,43315,12850,0,,,,,,,
+Orange Cove,Fresno,9649,1.79,33671,12306,0,,,,,,,
+Parlier,Fresno,14576,2.41,50026,17566,0,,,,,,,
+Reedley,Fresno,25227,5.51,61629,22826,0,,,,,,,
+San Joaquin,Fresno,779233,1392.37,82837,33870,0,,,,,,,
+Sanger,Fresno,26617,5.77,69333,24460,0,,,,,,,
+Selma,Fresno,24674,5.81,53874,21714,1,1,1,0,0,16,0,16
+Buellton,Santa Barbara,5161,1.58,102361,47903,1,1,0,10,0,0,0,10
+Carpinteria,Santa Barbara,13264,2.59,103879,52303,0,,,,,,,
+Goleta,Santa Barbara,32690,7.85,113889,49259,1,1,0,0,0,12,0,12
+Guadalupe,Santa Barbara,8057,1.31,66026,20314,0,,,,,,,
+Lompoc,Santa Barbara,44444,11.62,66947,27387,1,1,0,0,0,12,0,12
+Santa Barbara,Santa Barbara,88665,19.51,98346,58989,3,3,1,0,8,28,0,36
+Santa Maria,Santa Barbara,109707,22.81,81237,25685,1,1,1,0,0,20,0,20
+Solvang,Santa Barbara,6126,2.43,108074,65211,0,,,,,,,
+Escalon,San Joaquin,7472,2.28,82563,51355,0,,,,,,,
+Lathrop,San Joaquin,28701,19.83,108732,33980,1,1,0,0,0,11,0,11
+Lodi,San Joaquin,66348,13.64,78468,35345,0,,,,,,,
+Manteca,San Joaquin,83498,21.39,89966,36000,2,2,1,20,0,12,0,32
+Ripon,San Joaquin,16013,5.33,115583,49400,1,1,0,0,0,12,0,12
+Stockton,San Joaquin,320804,62.21,71612,29095,2,2,0,0,0,24,0,24
+Tracy,San Joaquin,93000,25.89,111717,40041,1,1,0,0,0,12,0,12
+Arvin,Kern,19495,4.82,47997,14900,1,1,1,0,0,76,0,76
+Bakersfield,Kern,403455,149.78,73827,31892,4,4,2,10,0,52,0,62
+California City,Kern,14973,203.61,55410,23297,0,,,,,,,
+Delano,Kern,51428,14.72,53639,17517,0,,,,,,,
+Maricopa,Kern,1026,1.6,45685,21089,0,,,,,,,
+McFarland,Kern,14161,2.68,42641,14419,0,,,,,,,
+Ridgecrest,Kern,27959,20.86,85872,39623,0,,,,,,,
+Shafter,Kern,19953,38.7,66418,20708,0,,,,,,,
+Taft,Kern,8546,15.27,52414,27539,0,,,,,,,
+Tehachapi,Kern,12939,10.26,62788,23163,0,,,,,,,
+Wasco,Kern,27047,9.39,48109,16256,0,,,,,,,
+Camarillo,Ventura,70741,19.69,105141,52817,0,,,,,,,
+Fillmore,Ventura,16419,3.3,85255,32110,0,,,,,,,
+Moorpark,Ventura,36284,12.28,143218,52673,0,,,,,,,
+Ojai,Ventura,7637,4.36,76569,53663,1,1,0,0,12,0,0,12
+Oxnard,Ventura,202063,26.53,90409,28845,1,1,1,20,0,0,0,20
+Port Hueneme,Ventura,21954,4.42,71695,30857,0,,,,,,,
+Santa Paula,Ventura,30657,5.53,72014,27867,0,,,,,,,
+Simi Valley,Ventura,126356,41.55,112144,51324,1,1,1,0,0,16,0,16
+Thousand Oaks,Ventura,126966,55.26,125399,61458,2,2,2,24,20,0,0,44
+Ventura,Ventura,110763,21.89,96036,46562,2,2,0,0,0,60,0,60
+Ceres,Stanislaus,49302,9.5,70191,24176,0,,,,,,,
+Hughson,Stanislaus,7481,1.91,99449,40898,0,,,,,,,
+Modesto,Stanislaus,218464,43.05,73375,32897,2,2,0,0,0,20,0,20
+Newman,Stanislaus,12351,2.06,76520,29532,0,,,,,,,
+Oakdale,Stanislaus,23181,6.23,83110,36622,0,,,,,,,
+Patterson,Stanislaus,23781,7.79,86031,29091,1,1,0,0,0,8,0,8
+Riverbank,Stanislaus,24865,4.71,89504,33398,0,,,,,,,
+Turlock,Stanislaus,72740,16.91,74559,33194,1,1,1,0,0,16,0,16
+Waterford,Stanislaus,9120,2.36,64349,23587,0,,,,,,,
